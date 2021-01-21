@@ -1,4 +1,4 @@
-# filermover
+# fileremover
 
 CI 서버나 툴이 없어서 git log에서 수정 파일 목록으로 파일 정리하는 코드
 
