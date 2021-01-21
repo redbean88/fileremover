@@ -1,0 +1,2 @@
+[정리대상이 되는 파일 목록 입니다.]
+예 ) src/main/java/egovframework/com/ws/site/cmslog/service/CmsLogWebService.java
